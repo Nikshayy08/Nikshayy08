@@ -1,101 +1,171 @@
-<h1 align="center">Hi 👋, I'm Nikshay</h1>
-<h3 align="center">Computer Science Undergraduate | DSA • Core CS • Applied ML</h3>
+<h1 align="center">Hi, I'm Nikshay 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nikshay08&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <b>Computer Science Undergraduate</b><br>
+  Core CS • DSA • Systems Thinking • Applied Machine Learning
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Core%20CS-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Practice-DSA-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Interest-Applied%20ML-darkgreen?style=flat-square"/>
 </p>
 
 ---
 
-## 🧠 About Me
+## Overview
 
-- 🎓 B.Tech CSE student with a strong foundation in **Data Structures, Algorithms, and Core CS**
-- 💡 Interested in **problem-solving, system thinking, and real-world ML applications**
-- 🛠️ Love building **clean, practical projects** rather than flashy demos
-- 📈 Currently focused on **DSA (C/C++)**, **ML fundamentals**, and **GitHub consistency**
+Computer Science undergraduate focused on *algorithmic problem-solving, **core computer science foundations, and **practical machine learning systems*.  
+Strong inclination towards *clean implementations, **time–space efficiency, and **real-world applicability*. 
 
 ---
+
+## Connect
+
+<p>
+  <a href="mailto:nikshayjoshi1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nikshay-joshi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Nikshay08">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-</p>
 
-### 📚 Core CS
-- Data Structures & Algorithms (DSA)
-- Design & Analysis of Algorithms (DAA)
-- Problem Solving & Complexity Analysis
+<table>
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/><br/>
+<b>C++</b>
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42"/><br/>
+<b>C</b>
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/><br/>
+<b>Python</b>
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/><br/>
+<b>Java</b>
+</td>
+</tr>
+</table>
+
+### 📚 Core Computer Science
+<p>
+  <img src="https://img.shields.io/badge/Data%20Structures-%23007ACC?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Algorithms-%23007ACC?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DAA-%23007ACC?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Complexity%20Analysis-%23007ACC?style=flat-square"/>
+</p>
 
 ### 🤖 Machine Learning
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-</p>
 
-- NumPy, Pandas  
-- Matplotlib, Seaborn  
-- scikit-learn  
+<table>
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42"/><br/>
+<b>NumPy</b>
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42"/><br/>
+<b>Pandas</b>
+</td>
+<td align="center">📈<br/><b>Matplotlib</b></td>
+<td align="center">🤖<br/><b>scikit-learn</b></td>
+</tr>
+</table>
 
 ### 🌐 Web
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-</p>
+<table>
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/><br/>
+<b>HTML</b>
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/><br/>
+<b>CSS</b>
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/><br/>
+<b>JavaScript</b>
+</td>
+</tr>
+</table>
 
-### 🧰 Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-</p>
+### ⚙️ Tools
+
+<table>
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/><br/>
+<b>Git</b>
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/><br/>
+<b>GitHub</b>
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/><br/>
+<b>VS Code</b>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Project
 
-### 🔍 Smart Error Explainer (ML-Based Tool)
-> A machine learning system that explains Python terminal errors in **simple, human-readable English**.
+### 🧠 Smart Error Explainer
+> *Turning confusing Python errors into understandable explanations.*
 
-- 🧠 ML-based error classification  
-- 📊 Trained using curated error datasets  
-- 🌐 Web interface (HTML, CSS, JavaScript)  
-- 🛠 Built with **Python + scikit-learn**
+An ML-based system that analyzes Python terminal errors and explains them in **simple, human-readable language**.
+
+**Key Highlights**
+- Error classification using supervised ML  
+- Clean preprocessing & feature extraction  
+- Lightweight and intuitive web interface  
 
 🔗 **Repository:**  
-👉 https://github.com/Nikshay08/Smart-Error-Explainer-SEE
+https://github.com/Nikshay08/Smart-Error-Explainer-SEE
 
 ---
 
-## 📌 What I'm Currently Working On
+## 🔍 What I’m Currently Working On
 
-- 🔁 Solving **DSA problems daily** (C/C++)
-- 🧩 Strengthening **algorithmic thinking**
-- 🤖 Exploring **Applied ML & RAG systems**
-- 🧪 Building **resume-worthy projects**
+- 📈 Daily DSA problem-solving (C/C++)
+- 🧠 Strengthening algorithmic & logical thinking
+- 🤖 Exploring Applied ML & RAG-based systems
+- 🧩 Building resume-worthy, real-world projects
+- 🧱 Improving system-level understanding (DBMS, OS basics)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikshay08&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikshay08&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikshay08&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikshay08&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
 
-## 🌱 Philosophy
+## 🧠 Philosophy
 
-> *Consistency beats intensity. Clean fundamentals beat shortcuts.*
+> **Consistency compounds.**  
+> **Clean fundamentals outlast clever tricks.**
 
----
 
-<p align="center">
-  ⭐ If you like my work, feel free to explore my repositories and connect!
-</p>
+

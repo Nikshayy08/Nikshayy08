@@ -29,7 +29,7 @@ Strong inclination towards *clean implementations, **time–space efficiency, an
   <a href="mailto:nikshayjoshi1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Nikshay08">
+  <a href="https://github.com/Nikshayy08">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
 </p>
